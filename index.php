@@ -18,7 +18,7 @@
                     </li>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-2</a>
                     <h3 class="text-center">Selamat Datang di Situs Web [Putri Ruth Berliana Siahaan-11S20043]</h3>
-                    <img src="assets/img/profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150" align="right"/>
+                    <img src="assets/img/profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150"/>
                     <p>Nama     : Putri Ruth Berliana Siahaan</p>
                     <p>NIM      : 11S20043</p>
                     <p>Prodi    : S1-Informatika </p>
