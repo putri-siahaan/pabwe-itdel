@@ -12,14 +12,18 @@
         <div class="card">
             <div class="card-body w-50 mx-auto">
 
-                <img src="assets/img/profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150"/>
-                <h3 class="text-center">11S18005_Abdullah Ubaid</h3>
-
                 <div class="list-group">
                     <li href="#" class="list-group-item list-group-item-action active" aria-current="true">
                       <h3>Hasil Praktikum</h3>
                     </li>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-2</a>
+                    <h3 class="text-center">Selamat Datang di Situs Web [Putri Ruth Berliana Siahaan-11S20043]</h3>
+                    <img src="assets/img/profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150" align="right"/>
+                    <p>Nama     : Putri Ruth Berliana Siahaan</p>
+                    <p>NIM      : 11S20043</p>
+                    <p>Prodi    : S1-Informatika </p>
+                    <p>Angkatan : 2020</p>
+                    <p>Status   : Mahasiswa</p>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-3</a>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-4</a>
                 </div>
