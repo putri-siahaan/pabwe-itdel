@@ -14,7 +14,9 @@
 
                 <div class="list-group">
                     <li href="#" class="list-group-item list-group-item-action active" aria-current="true">
-                      <h3>Hasil Praktikum</h3>
+                    <img src="assets/img/profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150"/>
+                    <h3 class="text-center">11S20043-Putri Ruth Berliana Siahaan</h3>  
+                    <h3>Hasil Praktikum</h3>
                     </li>
                     <a href="week2\profile.html" class="list-group-item list-group-item-action">Minggu Ke-2</a>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-3</a>
