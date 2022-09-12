@@ -12,7 +12,7 @@
     <link href="assets/vendor/bootstrap5/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <img src="profile.png" alt="foto" class="img-thumbnail d-block mx-auto" width="150" align="center"/>
+    <img src="profile.png" alt="foto-saya" class="img-thumbnail d-block mx-auto" width="150"/>
     <h1 class="text-center">11S20043_Putri Ruth Berliana Siahaan</h1>
     <div class="continer">
         <div class="card">
