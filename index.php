@@ -15,6 +15,8 @@
     <div class="continer">
         <div class="card">
             <div class="card-body w-50 mx-auto">
+                <img src="dog.jpg" alt="foto" class="img-thumbnail d-block mx-auto" width="150" align="center"/>
+                <h3 class="text-center">11S20043_Putri Ruth Berliana Siahaan</h3>
 
                 <div class="list-group">
                     <li href="#" class="list-group-item list-group-item-action active" aria-current="true">
@@ -22,7 +24,6 @@
                     </li>
                     <a href="week2/profile.html" class="list-group-item list-group-item-action">Minggu Ke-2</a>
                     <a href="week3/loginval.html" class="list-group-item list-group-item-action">Minggu Ke-3</a>
-                    <a href="#" class="list-group-item list-group-item-action">Minggu Ke-3</a>
                     <a href="#" class="list-group-item list-group-item-action">Minggu Ke-4</a>
                 </div>
             </div>
