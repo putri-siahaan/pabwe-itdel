@@ -46,7 +46,9 @@ footer{
     text-align: center;
 }
 footer p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
+    font-size: 28px;
+    text-align: center;
 }
 .content{
     display: flex;
