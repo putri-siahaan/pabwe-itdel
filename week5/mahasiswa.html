@@ -1,0 +1,50 @@
+<!--
+    Nama    : Putri Ruth Berliana Siahaan
+    NIM     : 11S20043
+    Prodi   : S1-Informatika
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validasi</title>
+    <!-- Menyisipkan kode js eksternal -->
+    <script src="skripKu.js"></script>
+</head>
+<body>
+    <h1> Form Validasi 2022 </h1>
+    <div onsubmit="validate(this);" action="" method="post"></div>
+                    <span class='lbl'>Nama Saya &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span><span class='lbl2'>:</span>
+                    <input type="text" id="myName" class="form-control"><br><br>
+                    <span class='lbl'>Tempat Lahir Saya &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span><span class='lbl2'>:</span>
+                    <input type="text" id="myPlace" class="form-control"><br><br>
+                    <span class='lbl'>Tanggal Lahir Saya &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span><span class='lbl2'>:</span>
+                    <input type="date" id="myDate" class="form-control"><br><br>
+                    <span class='lbl'>Jenis Kelamin Saya &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span><span class='lbl2'>:</span>
+                    <select id="myGender" class="form-control">
+                        <option value="">Pilih Jenis Kelamin</option>
+                        <option value="Perempuan">Perempuan</option>
+                        <option value="Laki-Laki">Laki-Laki</option>
+                    </select><br><br>
+                    <span class='lbl'>Pendidikan Terakhir Saya &#160;</span><span class='lbl2'>:</span>
+                    <select id="mySchool" class="form-control">
+                        <option value="">Pilih Pendidikan Terakhir</option>
+                        <option value="SD">SD</option>
+                        <option value="SMP">SMP</option>
+                        <option value="SMA">SMA</option>
+                        <option value="Diploma">Diploma</option>
+                        <option value="Sarjana">Sarjana</option>
+                        <option value="Opsi Lainnya">Opsi Lainnya</option>
+                    </select><br><br>
+                    <input type="button" onclick="validate()" value = "Submit">
+                </div>
+                <p id ="namasaya"></p>
+                <p id ="tempatlahirsaya"></p>
+                <p id ="tanggallahirsaya"></p>
+                <p id ="jeniskelaminsaya"></p>
+                <p id ="pendidikanterakhirsaya"></p>
+</body>
+</html>
+
+
+       
