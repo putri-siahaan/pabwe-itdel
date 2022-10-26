@@ -1,7 +1,7 @@
 <!--
     Nama    : Putri Ruth Berliana Siahaan
     NIM     : 11S20043
-    Prodi   : S1-Informatika
+    Prodi   : S1 Informatika
 -->
 <!DOCTYPE html>
 <html lang="en">
