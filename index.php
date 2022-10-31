@@ -28,6 +28,7 @@
                     <a href="week5/mahasiswa.html" class="list-group-item list-group-item-action">Minggu Ke-5</a>
                     <a href="week9/krs.php" class="list-group-item list-group-item-action">Minggu Ke-9 sesi ke-1 : KRS</a>
                     <a href="http://localhost/11S20043/public" class="list-group-item list-group-item-action">Minggu ke-9 sesi ke-4 : Laravel</a>
+                    <a href="http://localhost/laravel-app/public/welcome/welcoming" class="list-group-item list-group-item-action">Minggu ke-10</a>
                 </div>
             </div>
         </div>
